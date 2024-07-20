@@ -51,7 +51,7 @@ function App() {
     }
     setResult(res);
   };
-
+  
   return (
     <div className='main'>
     <div className="App">
